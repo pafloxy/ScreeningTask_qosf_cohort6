@@ -291,7 +291,4 @@ def grover(good_states: list, insert_barrier:bool= False)-> QuantumCircuit:
     return oracle_circuit
 
 
-#############################################################
-                                ## game utility ##
-#############################################################
 
